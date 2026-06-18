@@ -1,7 +1,7 @@
 # Windows-Admin-GroupPolicy-Recovery
  CompTIA A+ Practical Lab: Cross-Platform Admin Access Restoration via Linux GRUB Root Shell.
 # 📑 IT Case Study: Local Group Policy Registry Corruption & Cross-Platform Recovery
-**System Specialist:** [Your Name]  
+**System Specialist:** Tom Kemp  
 **Target Hardware:** Acer Predator Helios 300 (Dual-Boot: Windows 11 / Ubuntu Linux)  
 
 ---
